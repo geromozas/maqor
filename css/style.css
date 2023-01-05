@@ -23,10 +23,14 @@
   background-color: #ecd718; }
 
 body {
+<<<<<<< HEAD
   background-color: #d8d8d8ef;
   position: relative;
   min-height: 100vh;
   padding-bottom: 180px; }
+=======
+  background-color: #d8d8d8ef; }
+>>>>>>> 1ec3e92e51d42fd2bbfbfc0706a9c553c7c030ae
 
 .hero {
   display: flex;
@@ -114,6 +118,16 @@ footer {
     footer div svg:hover {
       color: rgba(255, 255, 255, 0.75); }
 
+<<<<<<< HEAD
+=======
+.footer-initial {
+  position: initial; }
+
+@media (max-width: 1700px) {
+  footer {
+    position: initial; } }
+
+>>>>>>> 1ec3e92e51d42fd2bbfbfc0706a9c553c7c030ae
 @media (max-width: 510px) {
   .hero img {
     width: 400px; }
