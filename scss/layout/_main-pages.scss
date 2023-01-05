@@ -1,0 +1,28 @@
+.main-pages h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.main-container{
+    margin-top: 40px;
+    max-width: 1500px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.main-info{
+    display: flex;
+    margin: 30px 0;
+}
+
+.main-info img{
+    width: 300px;
+    border-radius: 5px;
+}
+
+.text-main{
+    margin-left: 20px;
+}
+
